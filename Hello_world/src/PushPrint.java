@@ -1,12 +1,8 @@
 
 public class PushPrint {
-<<<<<<< HEAD
+
 	 System.out.println("add java");
      System.out.println("world with suhyun");
-=======
-                          System.out.println("add java");
-                          System.out.println("world with 42");
-
-
->>>>>>> refs/remotes/origin/master
+     System.out.println("add java");
+     System.out.println("world with 42");
 }
